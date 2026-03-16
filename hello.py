@@ -1,0 +1,1 @@
+print 'hello Kashu - welcome to python'
